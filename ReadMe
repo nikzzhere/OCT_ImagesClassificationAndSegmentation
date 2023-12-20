@@ -1,3 +1,0 @@
-This is a project we developed that is used to classify the condition of an eye of a person into four categories:
-CNV, DME, DRUSEN, and NORMAL.
-The training data and testing data is provided in the dataset folder. 
